@@ -11,3 +11,21 @@ Features:
 - Local storage using TinyDB
 - Add application screenshots
 
+  ## Application Screenshots
+
+### Login Screen
+![Login](Screenshots/login.png)
+
+### Profile Screen
+![Profile](Screenshots/profile.png)
+
+### Health Input Screen
+![Health Input](Screenshots/health_input.png)
+
+### Statistics Chart
+![Chart](Screenshots/chart.png)
+
+### Map Screen
+![Map](Screenshots/map.png)
+
+
