@@ -9,3 +9,5 @@ Features:
 - Charts (Health statistics)
 - Map (Emergency locator)
 - Local storage using TinyDB
+- Add application screenshots
+
